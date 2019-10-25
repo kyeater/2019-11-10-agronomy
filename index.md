@@ -35,7 +35,7 @@ And run 'make workshop-check' *before* committing to make sure that changes are 
 For a workshop please delete the following block
 {% endcomment %}
 <div class="alert alert-danger">
-Welcome to the Intro to Python Workshop page!  This one-day workshop is being offered in conjunction with the 2019 ASA-CCSA-SSSA Annual Meeting.  All registered attendees have been notified and are provided with access to these setup materials for the workshop. As of 10/25/2019, the registration is closed.  It is very important to perform the Python install and data files download prior to the workshop.  Internet will be available during the workshop, but it is not meant for heavy use.  Also, administrative rights will most likely be required for the Python install, so please plan accordingly.      
+Welcome to the Intro to Python Workshop page!  This one-day workshop is being offered in conjunction with the 2019 ASA-CCSA-SSSA Annual Meeting.  All registered attendees have been notified and are provided access to these setup materials for the workshop. As of 10/25/2019, the registration is closed.  Prior to the workshop, it is very important to perform the Python install (See Python Install Instructions below) as well as download all data files (See Setup Page: Download Data link in Schedule below).  Internet will be available during the workshop, but it is not meant for heavy use.  Also, administrative rights will most likely be required for the Python install, so please plan accordingly.      
 </div>
 
 {% if page.carpentry != site.carpentry %}
